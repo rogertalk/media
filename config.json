@@ -1,0 +1,8 @@
+{
+    "ListenAddr": ":8080",
+    "Buckets": ["rcam", "roger-api-persistent", "roger-api-shortlived"],
+    "Watson": {
+      "Username": "_REMOVED_",
+      "Password": "_REMOVED_"
+    }
+}
